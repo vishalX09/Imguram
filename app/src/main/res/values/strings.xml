@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">imguram</string>
+    <string name="nav_title_hot">Hot</string>
+    <string name="nav_title_top">Top</string>
+</resources>
