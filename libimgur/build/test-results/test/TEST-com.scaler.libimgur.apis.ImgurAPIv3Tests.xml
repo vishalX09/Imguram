@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.scaler.libimgur.apis.ImgurAPIv3Tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-11-02T16:38:14" hostname="MSI" time="5.202">
+  <properties/>
+  <testcase name="get tags working" classname="com.scaler.libimgur.apis.ImgurAPIv3Tests" time="1.835"/>
+  <testcase name="get tag - aww working" classname="com.scaler.libimgur.apis.ImgurAPIv3Tests" time="1.172"/>
+  <testcase name="get galleries - top working" classname="com.scaler.libimgur.apis.ImgurAPIv3Tests" time="1.146"/>
+  <testcase name="get galleries - hot working" classname="com.scaler.libimgur.apis.ImgurAPIv3Tests" time="1.049"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

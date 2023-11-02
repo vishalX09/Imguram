@@ -1,0 +1,3 @@
+com.scaler.imguram.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
