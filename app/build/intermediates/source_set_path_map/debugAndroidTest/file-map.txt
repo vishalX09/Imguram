@@ -1,0 +1,6 @@
+com.scaler.imguram.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\visha\.gradle\caches\transforms-3\3d3dc13ce51ea4cb71dc09627023a1cf\transformed\jetified-annotation-experimental-1.3.0\res
+com.scaler.imguram.test.app-jetified-core-1.5.0-1 C:\Users\visha\.gradle\caches\transforms-3\f3dfac2ddf71728f3773519d8c436353\transformed\jetified-core-1.5.0\res
+com.scaler.imguram.test.app-androidTest-2 C:\Users\visha\Desktop\imguram-master\app\build\generated\res\resValues\androidTest\debug
+com.scaler.imguram.test.app-mergeDebugAndroidTestResources-3 C:\Users\visha\Desktop\imguram-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.scaler.imguram.test.app-mergeDebugAndroidTestResources-4 C:\Users\visha\Desktop\imguram-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.scaler.imguram.test.app-merged_res-5 C:\Users\visha\Desktop\imguram-master\app\build\intermediates\merged_res\debugAndroidTest
