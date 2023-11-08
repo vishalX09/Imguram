@@ -12,6 +12,10 @@
         "source": "com.scaler.imguram.app-main-55:/mipmap-hdpi/ic_launcher.webp"
     },
     {
+        "merged": "com.scaler.imguram.app-merged_res-53:/layout_activity_splash_screeen.xml.flat",
+        "source": "com.scaler.imguram.app-main-55:/layout/activity_splash_screeen.xml"
+    },
+    {
         "merged": "com.scaler.imguram.app-merged_res-53:/layout_list_item_gallery_image.xml.flat",
         "source": "com.scaler.imguram.app-main-55:/layout/list_item_gallery_image.xml"
     },
@@ -88,6 +92,10 @@
         "source": "com.scaler.imguram.app-main-55:/drawable/ic_nav_line_chart.xml"
     },
     {
+        "merged": "com.scaler.imguram.app-merged_res-53:/drawable_profile.xml.flat",
+        "source": "com.scaler.imguram.app-main-55:/drawable/profile.xml"
+    },
+    {
         "merged": "com.scaler.imguram.app-merged_res-53:/drawable_ic_launcher_background.xml.flat",
         "source": "com.scaler.imguram.app-main-55:/drawable/ic_launcher_background.xml"
     },
@@ -110,6 +118,10 @@
     {
         "merged": "com.scaler.imguram.app-merged_res-53:/layout_list_item_story_head.xml.flat",
         "source": "com.scaler.imguram.app-main-55:/layout/list_item_story_head.xml"
+    },
+    {
+        "merged": "com.scaler.imguram.app-merged_res-53:/drawable_splash.png.flat",
+        "source": "com.scaler.imguram.app-main-55:/drawable/splash.png"
     },
     {
         "merged": "com.scaler.imguram.app-merged_res-53:/mipmap-mdpi_ic_launcher.webp.flat",

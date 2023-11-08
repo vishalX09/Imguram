@@ -16,6 +16,10 @@
         "source": "com.scaler.imguram.app-main-55:/layout/fragment_feed.xml"
     },
     {
+        "merged": "com.scaler.imguram.app-mergeDebugResources-52:/layout/activity_splash_screeen.xml",
+        "source": "com.scaler.imguram.app-main-55:/layout/activity_splash_screeen.xml"
+    },
+    {
         "merged": "com.scaler.imguram.app-mergeDebugResources-52:/layout/page_item_story.xml",
         "source": "com.scaler.imguram.app-main-55:/layout/page_item_story.xml"
     },

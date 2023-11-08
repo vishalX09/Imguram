@@ -3114,6 +3114,8 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable placeholder_image
+drawable profile
+drawable splash
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3124,6 +3126,7 @@ id CTRL
 id FUNCTION
 id META
 id NO_DEBUG
+id Profile
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -3556,6 +3559,8 @@ id square
 id src_atop
 id src_in
 id src_over
+id ss
+id ssIcon
 id standard
 id start
 id startHorizontal
@@ -3595,6 +3600,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3760,6 +3766,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_splash_screeen
 layout activity_story
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -4018,6 +4025,7 @@ string mtrl_timepicker_confirm
 string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
 string nav_title_hot
+string nav_title_profile
 string nav_title_top
 string password_toggle_content_description
 string path_password_eye
@@ -4031,6 +4039,7 @@ string searchview_navigation_content_description
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
+string welcome_to_imugram
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

@@ -22,4 +22,14 @@
 
     </fragment>
 
+    <fragment
+            android:id="@+id/Profile"
+            android:name="com.scaler.imguram.ui.feed.FeedFragment"
+            android:label="@string/nav_title_top"
+            tools:layout="@layout/fragment_feed">
+        <argument app:argType="string" android:name="feed" android:defaultValue="top"/>
+
+    </fragment>
+
+
 </navigation>

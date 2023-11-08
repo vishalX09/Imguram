@@ -10,5 +10,9 @@
             android:id="@+id/navigation_top"
             android:icon="@drawable/ic_nav_line_chart"
             android:title="@string/nav_title_top" />
+    <item
+            android:id="@+id/Profile"
+            android:icon="@drawable/profile"
+            android:title="@string/nav_title_profile" />
 
 </menu>

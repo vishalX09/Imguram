@@ -2,4 +2,6 @@
     <string name="app_name">imguram</string>
     <string name="nav_title_hot">Hot</string>
     <string name="nav_title_top">Top</string>
+    <string name="nav_title_profile">Profile</string>
+    <string name="welcome_to_imugram">Welcome to Imugram</string>
 </resources>
